@@ -1,1 +1,1 @@
-former https://github.com/lukasweidich/quikk-software
+former https://github.com/lukasweidich/auction-template
